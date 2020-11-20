@@ -1,0 +1,8 @@
+use_frameworks!
+
+source 'https://gitee.com/differentialmanifold/cocoa-pods-specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Example-private-repo' do
+  pod 'MyLibrary', '0.1.0'
+end

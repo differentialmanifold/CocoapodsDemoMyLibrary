@@ -7,12 +7,19 @@
 //
 
 import UIKit
+import MyLibrary
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let shape = Shape()
+        
+        shape.numberOfSides = 7
+        
+        print(shape.simpleDescription())
     }
 
     override func didReceiveMemoryWarning() {

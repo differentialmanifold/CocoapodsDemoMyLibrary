@@ -1,9 +1,9 @@
 {
   "name": "MyLibrary",
   "version": "0.1.0",
-  "summary": "A short description of MyLibrary.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/differentialmanifold/MyLibrary",
+  "summary": "A demo description of MyLibrary.",
+  "description": "This is a demo for showing how to create a private cocoapods lib.",
+  "homepage": "https://github.com/differentialmanifold/CocoapodsDemoMyLibrary",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,14 @@
     "differentialmanifold": "differentialmanifold@gmail.com"
   },
   "source": {
-    "git": "https://github.com/differentialmanifold/MyLibrary.git",
+    "git": "https://github.com/differentialmanifold/CocoapodsDemoMyLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MyLibrary/Classes/**/*"
+  "source_files": "MyLibrary/Classes/**/*",
+  "swift_versions": "5.0",
+  "vendored_frameworks": "DyDemoFramework.framework",
+  "swift_version": "5.0"
 }

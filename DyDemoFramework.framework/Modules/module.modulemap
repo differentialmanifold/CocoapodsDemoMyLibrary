@@ -1,0 +1,11 @@
+framework module DyDemoFramework {
+  umbrella header "DyDemoFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module DyDemoFramework.Swift {
+    header "DyDemoFramework-Swift.h"
+    requires objc
+}

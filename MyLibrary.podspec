@@ -32,6 +32,12 @@ This is a demo for showing how to create a private cocoapods lib.
 
   s.source_files = 'MyLibrary/Classes/**/*'
   s.swift_version  = '5.0'
+
+  s.vendored_frameworks = 'DyDemoFramework.framework'
+
+  # s.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreGraphics', 'CoreMedia', 'MediaPlayer', 'QuartzCore', 'StoreKit', 'SystemConfiguration'
+  # s.weak_framework = 'WebKit', 'UIKit', 'Foundation'
+  # s.libraries = 'z'
   
   # s.resource_bundles = {
   #   'MyLibrary' => ['MyLibrary/Assets/*.png']

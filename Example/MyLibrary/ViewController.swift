@@ -8,6 +8,7 @@
 
 import UIKit
 import MyLibrary
+import DyDemoFramework
 
 class ViewController: UIViewController {
 
@@ -20,6 +21,9 @@ class ViewController: UIViewController {
         shape.numberOfSides = 7
         
         print(shape.simpleDescription())
+        
+        let analytics = Analytics()
+        analytics.log(message: "this is a demo")
     }
 
     override func didReceiveMemoryWarning() {

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyLibrary'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A demo description of MyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -34,7 +34,7 @@ This is a demo for showing how to create a private cocoapods lib.
   s.swift_version  = '5.0'
 
   s.vendored_frameworks = 'DyDemoFramework.framework'
-  
+
   # s.resource_bundles = {
   #   'MyLibrary' => ['MyLibrary/Assets/*.png']
   # }

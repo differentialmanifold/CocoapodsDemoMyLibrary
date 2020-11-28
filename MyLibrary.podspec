@@ -28,16 +28,12 @@ This is a demo for showing how to create a private cocoapods lib.
   s.source           = { :git => 'https://github.com/differentialmanifold/CocoapodsDemoMyLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'MyLibrary/Classes/**/*'
   s.swift_version  = '5.0'
 
   s.vendored_frameworks = 'DyDemoFramework.framework'
-
-  # s.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreGraphics', 'CoreMedia', 'MediaPlayer', 'QuartzCore', 'StoreKit', 'SystemConfiguration'
-  # s.weak_framework = 'WebKit', 'UIKit', 'Foundation'
-  # s.libraries = 'z'
   
   # s.resource_bundles = {
   #   'MyLibrary' => ['MyLibrary/Assets/*.png']

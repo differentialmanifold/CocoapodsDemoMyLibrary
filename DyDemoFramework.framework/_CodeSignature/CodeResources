@@ -49,6 +49,10 @@
 	<dict>
 		<key>Headers/DyDemoFramework-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			eswtcnnixYHLYB5Z66fQ/yBghCs=
+			</data>
 			<key>hash2</key>
 			<data>
 			MKvoBu25XxO/yx4D3qtktHLi3QH5/7nvKzqmUH5rhOE=
@@ -56,6 +60,10 @@
 		</dict>
 		<key>Headers/DyDemoFramework.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KJdstIAUSXAX/UEqvUj7k4WsRLw=
+			</data>
 			<key>hash2</key>
 			<data>
 			qZdUkihDcRJ08ixW4oks3VWXN+X4ftdgzeLv/K9agJM=
@@ -63,6 +71,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			A1yz0vr8FhiFthA8uROl4FpCzZ0=
+			</data>
 			<key>hash2</key>
 			<data>
 			JElJ0EwRf42nW46q/fdhCNAWKH0kM/PEg5zhh45q+Mc=
@@ -70,6 +82,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			A1yz0vr8FhiFthA8uROl4FpCzZ0=
+			</data>
 			<key>hash2</key>
 			<data>
 			JElJ0EwRf42nW46q/fdhCNAWKH0kM/PEg5zhh45q+Mc=
@@ -77,6 +93,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JlHE35BwZd7VBpTP3BhbfpTrHbI=
+			</data>
 			<key>hash2</key>
 			<data>
 			w7aFLCMjQVg32lQe36Vu2orSLWO1KCSOFZdfdrQhnvQ=
@@ -84,6 +104,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			k77TsKUKw/ug6a9ikENB3Wi9G+k=
+			</data>
 			<key>hash2</key>
 			<data>
 			GbBDs7z0D8b7K8CH3416rLm+Ixb0sEhSz7pSEMa/sNQ=
@@ -91,6 +115,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JlHE35BwZd7VBpTP3BhbfpTrHbI=
+			</data>
 			<key>hash2</key>
 			<data>
 			w7aFLCMjQVg32lQe36Vu2orSLWO1KCSOFZdfdrQhnvQ=
@@ -98,6 +126,10 @@
 		</dict>
 		<key>Modules/DyDemoFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			k77TsKUKw/ug6a9ikENB3Wi9G+k=
+			</data>
 			<key>hash2</key>
 			<data>
 			GbBDs7z0D8b7K8CH3416rLm+Ixb0sEhSz7pSEMa/sNQ=
@@ -105,6 +137,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xK4ZnSLn4hPqoXo3HHX8ufPd4Mg=
+			</data>
 			<key>hash2</key>
 			<data>
 			AZcnc6Aqgn3mbJe189YOvsK1wRChqmUuqqPij0ZMPs8=

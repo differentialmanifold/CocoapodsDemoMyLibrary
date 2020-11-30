@@ -1,16 +1,16 @@
 PODS:
-  - MyLibrary (0.1.0)
+  - MyLibrary (0.2.0)
 
 DEPENDENCIES:
-  - MyLibrary (= 0.1.0)
+  - MyLibrary (= 0.2.0)
 
 SPEC REPOS:
   https://gitee.com/differentialmanifold/cocoa-pods-specs.git:
     - MyLibrary
 
 SPEC CHECKSUMS:
-  MyLibrary: e5ca3694aeb4c08e13ddf2bd85668b144d0b9af0
+  MyLibrary: f16504ea035711f8bc6996d086ee50929391882f
 
-PODFILE CHECKSUM: 63dbc758b836e3bb31249e8bbbf6b8f4146711b2
+PODFILE CHECKSUM: cab7faa3dc79ee0370fc56ba03d510a77be994fb
 
 COCOAPODS: 1.9.3
